@@ -1,14 +1,11 @@
-![logo](https://github.com/Trimbak15/Trimbak15/blob/main/Banner.png)
-<h1 align="center">Hi 👋, I'm Trimbak Pakhale</h1>
+<img align = "center" alt="logo" width="1000" src="https://github.com/Trimbak15/Trimbak15/blob/main/Banner.png">
+<h1 align="center">
+    Hi 👋, I'm Trimbak Pakhale</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e4753r8ipxe8sn3lc83pi6gz0bd6vmnqdqf700p08hm&rid=200w.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trimbak15&label=Profile%20views&color=0e75b6&style=flat" alt="trimbak15" /> </p>
-
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trimbak15" alt="trimbak15" /></a>
-</p>
 
 - 🌱 I’m currently learning **spring boot, DSA + front-end** - 💬 Ask me about **Currently persueing Full Stack Development** - 📫 How to reach me **pakhaletrimbak@gmail.com** - ⚡ Fun fact **I think I am Funny😜😉**
 
@@ -34,5 +31,3 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trimbak15&show_icons=true&locale=en&layout=compact" alt="trimbak15" /></p>

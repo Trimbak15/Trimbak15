@@ -1,4 +1,4 @@
-<img align="center" width="1000" src="https://github.com/Trimbak15/Trimbak15/blob/main/Banner.png" alt="banner" />
+<img align="center" width="1000" src="file:///C:/Users/trimbak.pakhale/Downloads/github-header-image.png" alt="banner" />
 
 <h1 align="center">Hi 👋, I'm Trimbak Pakhale</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer from India 🇮🇳</h3>

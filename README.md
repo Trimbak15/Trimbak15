@@ -1,4 +1,5 @@
-<img width="921" height="300" alt="github-header-image" src="https://github.com/user-attachments/assets/d19503c3-e28f-4b47-9b90-f149f1ba588f" />
+
+<img width="921" height="300" alt="github-header-image (4)" src="https://github.com/user-attachments/assets/c17a7115-40fc-449e-b1cb-ab5d1fbf0557" />
 
 <h1 align="center">Hi 👋, I'm Trimbak Pakhale</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer from India 🇮🇳</h3>

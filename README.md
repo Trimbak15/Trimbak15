@@ -1,4 +1,5 @@
-<img align="center" width="1000" src="file:///C:/Users/trimbak.pakhale/Downloads/github-header-image.png" alt="banner" />
+<img align="center" width="1000" src="<img width="921" height="300" alt="github-header-image" src="https://github.com/user-attachments/assets/d19503c3-e28f-4b47-9b90-f149f1ba588f" />
+" alt="banner" />
 
 <h1 align="center">Hi 👋, I'm Trimbak Pakhale</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer from India 🇮🇳</h3>

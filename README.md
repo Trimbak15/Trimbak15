@@ -1,33 +1,92 @@
-<img align = "center" alt="logo" width="1000" src="https://github.com/Trimbak15/Trimbak15/blob/main/Banner.png">
-<h1 align="center">
-    Hi 👋, I'm Trimbak Pakhale</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<img align="center" width="1000" src="https://github.com/Trimbak15/Trimbak15/blob/main/Banner.png" alt="banner" />
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e4753r8ipxe8sn3lc83pi6gz0bd6vmnqdqf700p08hm&rid=200w.webp&ct=g">
+<h1 align="center">Hi 👋, I'm Trimbak Pakhale</h1>
+<h3 align="center">🚀 A Passionate Full Stack Developer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trimbak15&label=Profile%20views&color=0e75b6&style=flat" alt="trimbak15" /> </p>
-
-- 🌱 I’m currently learning **spring boot, DSA + front-end** - 💬 Ask me about **Currently persueing Full Stack Development** - 📫 How to reach me **pakhaletrimbak@gmail.com** - ⚡ Fun fact **I think I am Funny😜😉**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/trimbak pakhale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trimbak pakhale" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/@atp8149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@atp8149" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/trimbakpakhale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trimbakpakhale" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/trimbakpakhale" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pakhaletrimbak@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.leetcode.com/trimbakpakhale" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/@atp8149" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a>
+---
+
+### 🧑‍💻 About Me
+
+- 🌱 Currently learning **Spring Boot**, **Data Structures**, and **Advanced Frontend (Next.js, Tailwind)**
+- 💬 Ask me about **Frontend Development**, **React/Next.js**, or **API Integrations**
+- 🧠 Practicing DSA on LeetCode & HackerRank
+- 📫 Reach me at **pakhaletrimbak@gmail.com**
+- ⚡ Fun fact: I think I’m **funny 😜**, but code never laughs 😅
+
+---
+
+### 🔧 Tech Stack & Tools
+
+#### 👨‍💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+#### 🖼️ Frontend
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
+
+#### 🛠️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot)
+
+#### 🗃️ Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql)
+
+#### 🔗 Other Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Trimbak15&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trimbak15&layout=compact&theme=tokyonight" height="180px"/>
 </p>
+
+---
+
+### 🔥 My Top Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [📊 Admin Dashboard](https://github.com/Trimbak15/admin-dashboard) | Role-based dashboard with charts, login, filters | React, Tailwind, Recharts, Auth |
+| [🛍️ E-commerce Store](https://github.com/Trimbak15/ecommerce-frontend) | Simple UI with product filter, cart & checkout | React, Redux, Fake API |
+| [📘 Portfolio](https://github.com/Trimbak15/portfolio-site) | Personal portfolio with animations & blog | Next.js, Tailwind CSS, Framer Motion |
+| [🔗 API Project](https://github.com/Trimbak15/weather-app) | API integration with weather forecast UI | React, Axios, OpenWeather API |
+
+---
+
+### ✍️ Let's Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/trimbakpakhale)
+- 📫 Email: **pakhaletrimbak@gmail.com**
+- 🌐 Portfolio: _Coming soon_
+
+---
+
+<p align="center">Thanks for visiting! ⭐ If you like my work, consider following me!</p>
